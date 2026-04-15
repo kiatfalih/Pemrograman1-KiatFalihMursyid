@@ -1,4 +1,4 @@
-package latihan1;
+package latihan1_pert2;
 import java.util.Scanner;
 
 public class Latihan1 {
